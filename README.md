@@ -1,4 +1,6 @@
 # Online-Auction-System
+This system is designed to implement the basic functionalities of an Online Auction system where buyers and sellers participate in the sale of advertised items.
+
 1. Install MAMP following the instructions provided in the “Database System” section of the file ‘Report.pdf'.
 2. Install the MAMP application from ‘https://www.mamp.info/en/downloads/’
 3. Open the MAMP application, navigating to ‘Preferences’.
